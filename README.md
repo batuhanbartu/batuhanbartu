@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhanbartu&label=Profile%20views&color=0e75b6&style=flat" alt="batuhanbartu" /> </p>
 
-- 🔭 I’m currently working on **Sql Server Database Management Projects**
+- 🤓 My area of ​​interest is **Cyber ​​Security**
 
 - 🌱 I’m currently learning **Database**
 
