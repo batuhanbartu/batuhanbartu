@@ -2,7 +2,7 @@
 <h3 align="center">A software student interested in almost every field.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhanbartu&label=Profile%20views&color=0e75b6&style=flat" alt="batuhanbartu" /> </p>
+
 
 - 🤓 My area of ​​interest is **Cyber ​​Security**
 
