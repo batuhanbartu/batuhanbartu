@@ -6,7 +6,7 @@
 
 - 🤓 My area of ​​interest is **Cyber ​​Security**
 
-- 🌱 I’m currently learning **Database**
+- 🌱 I’m currently learning **Linux**
 
 - 📫 How to reach me **batubartu007@gmail.com**
 
