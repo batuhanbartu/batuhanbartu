@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Batuhan BARTU</h1>
+<h1 align="center">Hi 👋, I'm BARTU</h1>
 <h3 align="center">A software student interested in almost every field.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"
 
