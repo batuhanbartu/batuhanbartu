@@ -7,7 +7,7 @@
 
 
 
-🤓 My area of ​​interest is **Cyber ​​Security**
+🥷 My area of ​​interest is **Cyber ​​Security**
 
 🌱 I’m currently learning **Linux**
 
