@@ -1,5 +1,5 @@
 ![linkedin-banner](https://github.com/user-attachments/assets/e6db7c99-4882-4de2-ad00-836c59044ea6)
-<div align="center">
+<div align="">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&pause=1000&width=435&lines=%E2%9A%A1+BATUHAN+BARTU+%E2%9A%A1;%F0%9F%93%9A+Software+Developer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing SVG" /></a>
   </div>
 <h3 align="">•A software student interested in almost every field.</h3>
