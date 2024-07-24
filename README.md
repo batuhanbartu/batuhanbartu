@@ -1,6 +1,6 @@
 ![linkedin-banner](https://github.com/user-attachments/assets/e6db7c99-4882-4de2-ad00-836c59044ea6)
-<div align="">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&pause=1000&width=435&lines=%E2%9A%A1+BATUHAN+BARTU+%E2%9A%A1;%F0%9F%93%9A+Software+Developer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing SVG" /></a>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=31&pause=1000&width=435&lines=%E2%9A%A1+BATUHAN+BARTU+%E2%9A%A1;%F0%9F%93%9A+Software+Developer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing SVG" /></a>
   </div>
 <h3 align="">•A software student interested in almost every field.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"
@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/batuhan-bartu-60380b244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batuhan-bartu-60380b244" height="30" width="40" /></a>
   <a href="https://batuhanbartu.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kendime-notlar" height="30" width="40" style="max-width: 100%;"></a>
 
-<img align="center" >
+<img align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
