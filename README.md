@@ -1,14 +1,17 @@
-<h1 align="center">Hi,I am BATUHAN BARTU.</h1>
-<h3 align="center">A software student interested in almost every field.</h3>
+![linkedin-banner](https://github.com/user-attachments/assets/e6db7c99-4882-4de2-ad00-836c59044ea6)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&pause=1000&width=435&lines=%E2%9A%A1+BATUHAN+BARTU+%E2%9A%A1;%F0%9F%93%9A+Software+Developer+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing SVG" /></a>
+  </div>
+<h3 align="">•A software student interested in almost every field.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"
 
 
 
-- 🤓 My area of ​​interest is **Cyber ​​Security**
+🤓 My area of ​​interest is **Cyber ​​Security**
 
-- 🌱 I’m currently learning **Linux**
+🌱 I’m currently learning **Linux**
 
-- 📫 How to reach me **batubartu007@gmail.com**
+📫 How to reach me **batubartu007@gmail.com**
 
 
 <p align="left">
