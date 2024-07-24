@@ -14,7 +14,8 @@
 📫 How to reach me **batubartu007@gmail.com**
 
 
-<p align="left">
+<h3 align="left">Connect with me:</h3>
+<p align="left">  
 <a href="https://linkedin.com/in/batuhan-bartu-60380b244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batuhan-bartu-60380b244" height="30" width="40" /></a>
   <a href="https://batuhanbartu.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kendime-notlar" height="30" width="40" style="max-width: 100%;"></a>
 
