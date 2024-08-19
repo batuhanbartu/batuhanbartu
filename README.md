@@ -1,4 +1,4 @@
-![linkedin-banner](https://github.com/user-attachments/assets/e6db7c99-4882-4de2-ad00-836c59044ea6)
+
 <p align="left">
   <a href="https://github.com/batuhanbartu/batuhanbartu">
     <img src="https://komarev.com/ghpvc/?username=batuhanbartu&color=blue" alt="profile views" />
