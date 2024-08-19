@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=batuhanbartu&color=blue" alt="profile views" />
   </a>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&pause=1000&width=435&lines=%F0%9F%8C%90+BATUHAN+BARTU+%F0%9F%8C%90;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=40&pause=1000&width=435&lines=%F0%9F%8C%90+BATUHAN+BARTU+%F0%9F%8C%90;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing SVG" /></a>
   </div>
 <h3 align="">•A software student interested in almost every field.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/7e05d8ee-bf50-4813-8089-0e50fadfadbe"
