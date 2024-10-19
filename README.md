@@ -12,9 +12,7 @@
 
 🥷 My area of ​​interest is **Cyber ​​Security**
 
-🌱 I’m currently learning **Linux**
-
-📫 How to reach me **batubartu007@gmail.com**
+🌱 I’m currently learning **I Concentrate on Red Team Techniques and Social Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">  
